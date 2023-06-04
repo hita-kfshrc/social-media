@@ -1,6 +1,6 @@
 # social-media
 ## Tweets Corpus 
-in the corpus you will find the tweets that has been sent to one of the accounts below:
+In the corpus you will find the tweets that has been sent to one of the accounts below:
 Five hospital as following: 
   - King Faisal Specialist Hospital & Research Center with 8 representative accounts: (KFSHRC, Malfayyadh, KFSHRC_IR, KFSHRC_Research, KFSHRC_HE, KFSHRC_org, KFSHRC_J, and KFSHRC_M).
   - King Fahad Medical City (KFMC_RIYADH)
